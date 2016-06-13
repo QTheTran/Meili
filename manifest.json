@@ -1,7 +1,16 @@
 {
     "projects" : [
-        "Footsteps",
-        "TestHarness",
-        "VoiceTest"
+        {
+            "title" : "Footsteps",
+            "URL" : "https://github.com/QTheTran/MeiliFootsteps/archive/master.zip"
+        },
+        {
+            "title" : "TestHarness",
+            "URL" : "https://github.com/QTheTran/MeiliTestHarness/archive/master.zip"
+        },
+        {
+            "title" : "VoiceTest",
+            "URL" : "https://github.com/QTheTran/MeiliVoiceTest/archive/master.zip"
+        },
     ]
 }
